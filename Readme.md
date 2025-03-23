@@ -6,7 +6,8 @@
 
 **Technologies Used** : Python Scikit-learn Matplotlib
 
-**Getting Started **: Clone the repository : git clone https://github.com/Swaminadh-Dhulipudi/Online-Payment-Fraud-Detection 
+**Getting Started **: Clone the repository : git clone https://github.com/Swaminadh-Dhulipudi/Online-Payment-Fraud-Detection.
+
 **Install dependencies**: pip install -file requirements.txt
 
 **Dataset Link** : Utilize a labeled dataset containing examples of both normal and fraudulent transactions. 
